@@ -27,4 +27,4 @@ we need MENTIONS, COUNT,	AVERAGE, CENTRALIT as input
 
 # Conclusion
  
-From this analysis directors can understand the inportants of the gender stereotypes in a movie plot
+From this analysis directors can understand the importants of the gender stereotypes in a movie plot
