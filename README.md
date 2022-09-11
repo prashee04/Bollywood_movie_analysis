@@ -2,8 +2,7 @@
 
 # Problem
 
-The Bollywood Movie Analysis
-- Gender stereotypes
+The Bollywood Movie Analysis - Gender stereotypes
 
 #  What i have done
 > - Collected Dataset from: [Dataset](https://github.com/BollywoodData/Bollywood-Data).
