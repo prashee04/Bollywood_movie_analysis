@@ -64,27 +64,27 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 ![image](https://user-images.githubusercontent.com/85805813/189721125-b85929e3-2ffb-40d2-9c80-9d5cee30e7f2.png)
 
-intput of female centrality
+- intput of female centrality
 
 ![image](https://user-images.githubusercontent.com/85805813/189723731-0db83320-81d3-459a-8f80-707247b6af41.png)
 
-Output of female centrality
+- Output of female centrality
 
 ![image](https://user-images.githubusercontent.com/85805813/189723902-5b82b1de-1822-413d-8e71-568fd70ae5fe.png)
 
-Input of complete data
+- Input of complete data
 
 ![image](https://user-images.githubusercontent.com/85805813/189724924-400e2e4b-2cfe-4734-aab4-0bb4b79da98c.png)
 
-Output od complete data
+- Output od complete data
 
 ![image](https://user-images.githubusercontent.com/85805813/189724998-522f3e24-6359-4375-902d-f53de40ce478.png)
 
-input of trailer data
+- input of trailer data
 
 ![image](https://user-images.githubusercontent.com/85805813/189725889-7dc69831-4900-4aab-b5c3-5e55c2118493.png)
 
-output of trailer data
+- output of trailer data
 
 ![image](https://user-images.githubusercontent.com/85805813/189726039-fc0fa536-91be-4c64-88e3-f3c37633f71a.png)
 
