@@ -80,13 +80,6 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 ![image](https://user-images.githubusercontent.com/85805813/189724998-522f3e24-6359-4375-902d-f53de40ce478.png)
 
-- input of trailer data
-
-![image](https://user-images.githubusercontent.com/85805813/189725889-7dc69831-4900-4aab-b5c3-5e55c2118493.png)
-
-- output of trailer data
-
-![image](https://user-images.githubusercontent.com/85805813/189726039-fc0fa536-91be-4c64-88e3-f3c37633f71a.png)
 
 
  # Output
