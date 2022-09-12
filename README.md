@@ -13,7 +13,8 @@ The Bollywood Movie Analysis - Gender stereotypes
 - Feature scaling the dataset.
 - I used RandomforestRegression model.
 - Find the accuracy of the model in testing the model.
--  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_model/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_model/female_centrality_rf.ipynb) centrality.
+-  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_model/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_model/female_centrality_rf.ipynb) centrality
+- input from user and get the ouput for [complete data](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_1/complete_data_rf.ipynb) and [trailer data](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_2/trailer_rf.ipynb)
 - Comparision between two gender stereotypes like mentions centrolity, adjective.
 
 
@@ -45,7 +46,15 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 ![image](https://user-images.githubusercontent.com/85805813/189671037-cc9c901a-c894-4d93-a5fa-a5dfac038314.png)
 
- 
+-[trailer_rf](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_2/trailer_rf.ipynb)
+
+![image](https://user-images.githubusercontent.com/85805813/189714687-2cf2bd3b-3fe9-43e9-9e2c-c07f38dab365.png)
+
+[complete_data_rf](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_1/complete_data_rf.ipynb)
+
+![image](https://user-images.githubusercontent.com/85805813/189714929-f8f9aa9e-ac06-4c36-896e-00e63bc158d7.png)
+
+
  # Output
  
  
