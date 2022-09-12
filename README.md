@@ -13,7 +13,8 @@ The Bollywood Movie Analysis - Gender stereotypes
 - Feature scaling the dataset.
 - I used RandomforestRegression model.
 - Find the accuracy of the model in testing the model.
--  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_rf.ipynb) centrality.
+-  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_model/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_model/female_centrality_rf.ipynb) centrality
+- input from user and get the ouput for [complete data](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_1/complete_data_rf.ipynb) and [trailer data](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_2/trailer_rf.ipynb)
 - Comparision between two gender stereotypes like mentions centrolity, adjective.
 
 
@@ -45,9 +46,43 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 ![image](https://user-images.githubusercontent.com/85805813/189671037-cc9c901a-c894-4d93-a5fa-a5dfac038314.png)
 
- 
+-[trailer_rf](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_2/trailer_rf.ipynb)
+
+![image](https://user-images.githubusercontent.com/85805813/189714687-2cf2bd3b-3fe9-43e9-9e2c-c07f38dab365.png)
+
+[complete_data_rf](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/trailer_data_1/complete_data_rf.ipynb)
+
+![image](https://user-images.githubusercontent.com/85805813/189714929-f8f9aa9e-ac06-4c36-896e-00e63bc158d7.png)
+
+# Input Output Using API flash
+
+- Input of male centrality
+
+![image](https://user-images.githubusercontent.com/85805813/189720893-483e100f-6735-4fc9-a147-16497fe2b28b.png)
+
+- Output of male centrality
+
+![image](https://user-images.githubusercontent.com/85805813/189721125-b85929e3-2ffb-40d2-9c80-9d5cee30e7f2.png)
+
+- intput of female centrality
+
+![image](https://user-images.githubusercontent.com/85805813/189723731-0db83320-81d3-459a-8f80-707247b6af41.png)
+
+- Output of female centrality
+
+![image](https://user-images.githubusercontent.com/85805813/189723902-5b82b1de-1822-413d-8e71-568fd70ae5fe.png)
+
+- Input of complete data
+
+![image](https://user-images.githubusercontent.com/85805813/189724924-400e2e4b-2cfe-4734-aab4-0bb4b79da98c.png)
+
+- Output od complete data
+
+![image](https://user-images.githubusercontent.com/85805813/189724998-522f3e24-6359-4375-902d-f53de40ce478.png)
+
+
+
  # Output
- 
  
 we need MENTIONS, COUNT,	AVERAGE, CENTRALIT as input
 
