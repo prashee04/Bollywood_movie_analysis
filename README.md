@@ -28,3 +28,9 @@ we need MENTIONS, COUNT,	AVERAGE, CENTRALIT as input
 # Conclusion
  
 From this analysis directors can understand the importants of the gender stereotypes in a movie plot
+
+# Comparision of trailer dataset
+Comparing Trailer dataset using Datacompy
+[link](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/analysis_1.ipynb)
+![image](https://user-images.githubusercontent.com/85805813/189659440-c9adedd9-2bc0-4819-b048-f8523e0173c5.png)
+
