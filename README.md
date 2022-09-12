@@ -13,7 +13,7 @@ The Bollywood Movie Analysis - Gender stereotypes
 - Feature scaling the dataset.
 - I used RandomforestRegression model.
 - Find the accuracy of the model in testing the model.
--  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_rf.ipynb) centrality.
+-  Checking with input from user and get the ouput for [Male](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/male_centrality_model/male_centrality_rf.ipynb) and [female](https://github.com/prashee04/Bollywood_movie_analysis/blob/main/final/female_centrality_model/female_centrality_rf.ipynb) centrality.
 - Comparision between two gender stereotypes like mentions centrolity, adjective.
 
 
