@@ -80,6 +80,9 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 ![image](https://user-images.githubusercontent.com/85805813/189724998-522f3e24-6359-4375-902d-f53de40ce478.png)
 
+# Gender_bias
+
+https://github.com/prashee04/Bollywood_movie_analysis/tree/main/final/text
 
 
  # Output
@@ -89,6 +92,7 @@ we need MENTIONS, COUNT,	AVERAGE, CENTRALIT as input
 # Conclusion
  
 From this analysis directors can understand the importants of the gender stereotypes in a movie plot
+
 
 
 
