@@ -82,7 +82,13 @@ The Bollywood Movie Analysis - Gender stereotypes
 
 # Gender_bias
 
+i have done gender bias for the movie Hridayam
+
 https://github.com/prashee04/Bollywood_movie_analysis/tree/main/final/text
+
+![image](https://user-images.githubusercontent.com/85805813/190890240-6f85f8ed-3e5b-4ebc-a4e2-dd8d7feb1375.png)
+
+![image](https://user-images.githubusercontent.com/85805813/190890246-feb35002-2bab-4c50-9246-0fb42a5100a2.png)
 
 
  # Output
